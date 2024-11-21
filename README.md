@@ -19,7 +19,7 @@ curl --proxy-insecure -k --proxy 'https://xxx.xxx.xxx.xxx:xxxx' -o - https://api
 
 ###### Running Chrome browser on windows with clean profile
 ```console
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --ignore-certificate-errors --ignore-ssl-errorsrs --proxy-server="https://xxx.xxx.xxx.xxx:xxxx" --user-data-dir="%TEMP%\chrprofile1" "https://ip-api.com/"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --ignore-certificate-errors --ignore-ssl-errors --proxy-server=https://xxx.xxx.xxx.xxx:xxxx --user-data-dir=%TEMP%\chrprofile1 https://ip-api.com/
 ```
 
 #### CONNECT proxy example
