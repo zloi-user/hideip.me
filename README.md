@@ -53,3 +53,6 @@ curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - https://api.my-
     ```bash
     https://raw.githubusercontent.com/zloi-user/hideip.me/main/connect.txt
     ```
+
+
+[![Proxy service provider with 2M+ residential proxies](https://dashboard.iproyal.com/img/b/728_5.jpg)](https://hideip.me/en/privateproxies)
