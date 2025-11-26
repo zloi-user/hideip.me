@@ -15,7 +15,7 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ###### Running Curl on Linux
 ```console
-curl --proxy-insecure -k --proxy 'https://xxx.xxx.xxx.xxx:xxxx' -o - https://api.my-ip.io/ip
+curl --proxy-insecure -k --proxy 'https://xxx.xxx.xxx.xxx:xxxx' -o - http://ip-api.com/line
 ```
 
 ###### Running Chrome browser on windows with clean profile
@@ -27,7 +27,7 @@ curl --proxy-insecure -k --proxy 'https://xxx.xxx.xxx.xxx:xxxx' -o - https://api
 
 ###### Running Curl on Linux
 ```console
-curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - https://api.my-ip.io/ip
+curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - http://ip-api.com/line
 ```
 
 ### Link Proxies
