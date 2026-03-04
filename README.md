@@ -54,3 +54,7 @@ curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - http://ip-api.c
 
 
 [![Proxy service provider with 2M+ residential proxies](https://dashboard.iproyal.com/img/b/728_5.jpg)](https://hideip.me/en/privateproxies)
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=zloi-user/hideip.me&type=date&legend=top-left)](https://www.star-history.com/?repos=zloi-user%2Fhideip.me&type=date&legend=top-left)
