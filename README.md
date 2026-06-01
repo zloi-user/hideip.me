@@ -6,9 +6,11 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 
 ### Donate 💸
-- BTC - ```1KbXEYvGY4oURR7HCBvCMfhbyEcU3jM8mL```
-- [WebMoney / USDt / ETH ...](https://pay.web.money/d/fwxz)
-- [МИР / ЮMoney](https://yoomoney.ru/to/410014392099996)
+* **USDT (TRC-20):** ```TBGQZUwquq2yLPZzwYUpgYYPeLMcbJSLoz```
+* **BTC (Bitcoin Mainnet):** ```1KbXEYvGY4oURR7HCBvCMfhbyEcU3jM8mL```
+* 🌐 [WebMoney / ETH / LTC /...](https://pay.web.money/d/fwxz)
+* 💳 [MIR Cards / ЮMoney](https://yoomoney.ru/to/410014392099996)
+
 
 #### HTTPS proxy example
 
