@@ -196,7 +196,6 @@
 152.71.251.13:443:United Kingdom
 79.188.239.41:8443:Poland
 212.243.240.120:443:Switzerland
-51.38.179.176:443:France
 185.96.121.243:9443:Poland
 192.154.227.9:3001:United States
 34.93.13.41:443:India
@@ -386,6 +385,8 @@
 20.219.163.207:443:India
 3.113.38.132:443:Japan
 129.212.181.253:8443:United States
+103.251.94.188:443:India
+103.251.94.10:443:India
 159.13.44.228:443:Australia
 5.59.248.134:8443:Italy
 45.147.251.19:8443:Spain
@@ -535,7 +536,6 @@
 45.91.211.14:443:Seychelles
 47.149.9.211:443:United States
 209.38.19.229:443:Australia
-46.229.243.232:443:Romania
 3.148.0.140:443:United States
 162.55.173.86:443:Germany
 193.203.16.6:443:Germany
@@ -599,7 +599,6 @@
 138.199.35.210:9002:United States
 37.203.37.191:443:Latvia
 168.119.240.146:443:Germany
-5.255.120.245:443:The Netherlands
 180.131.255.118:443:Japan
 141.148.181.144:443:United States
 34.71.148.73:443:United States
@@ -610,7 +609,7 @@
 38.28.185.143:443:United States
 38.28.185.205:443:United States
 96.5.129.85:443:United States
-87.251.79.232:443:Italy
+87.251.79.232:443:United States
 84.237.50.69:443:Russia
 91.107.148.250:8880:Germany
 81.93.27.76:443:France
@@ -688,6 +687,7 @@
 192.126.96.110:443:United States
 190.113.112.147:443:Costa Rica
 196.21.60.44:443:South Africa
+206.188.212.116:8443:United States
 37.203.35.26:443:Latvia
 193.226.205.54:443:Hungary
 134.1.7.9:443:Germany
@@ -704,7 +704,7 @@
 207.5.30.9:443:United States
 3.133.140.176:8443:United States
 80.66.87.95:8443:Germany
-45.142.141.5:8443:Luxembourg
+45.142.141.5:8443:Sweden
 8.212.178.252:8000:Philippines
 103.86.117.202:443:Indonesia
 103.79.76.91:1234:Singapore
@@ -746,6 +746,7 @@
 69.161.223.247:8447:United States
 209.38.82.52:443:Australia
 209.38.19.186:443:Australia
+205.178.137.21:8447:United States
 84.237.50.69:8081:Russia
 45.91.211.14:1443:Seychelles
 194.135.33.185:443:Czechia
@@ -777,18 +778,22 @@
 82.65.162.76:443:France
 205.185.125.136:8888:United States
 45.152.209.206:1443:Germany
+205.178.137.186:8443:United States
+205.178.137.100:8447:United States
 82.66.235.221:443:France
 83.211.198.117:443:Italy
 177.234.248.186:443:Ecuador
 62.210.70.194:443:France
 128.84.46.176:443:United States
 54.37.72.89:443:Germany
-205.178.186.247:8447:United States
+205.178.137.219:8447:United States
+206.188.207.196:8447:United States
 45.136.230.174:1443:The Netherlands
 207.204.53.184:8447:United States
 45.220.173.35:443:South Africa
 41.77.155.164:443:South Africa
 45.220.232.12:443:South Africa
+206.188.208.13:8447:United States
 205.178.144.114:8443:United States
 185.44.107.166:443:Germany
 45.152.209.206:443:Germany
@@ -802,7 +807,11 @@
 167.172.50.198:443:United Kingdom
 162.55.97.61:443:Germany
 107.149.232.90:443:United States
+206.188.212.169:8447:United States
 198.54.223.176:443:South Africa
+205.178.137.51:8447:United States
+205.178.137.246:8443:United States
+205.178.137.170:8447:United States
 35.184.225.44:443:United States
 79.72.36.217:443:Oman
 205.178.137.209:8443:United States
@@ -810,13 +819,18 @@
 185.68.191.63:443:Italy
 152.53.107.196:443:The Netherlands
 206.188.209.69:8447:United States
-47.243.181.85:42532:Taiwan
+207.204.53.41:8443:United States
+206.188.209.146:8443:United States
 104.36.250.48:443:United States
+205.178.144.141:8447:United States
 206.188.212.87:8447:United States
-206.188.207.77:8447:United States
+205.178.144.208:8443:United States
+206.188.205.157:8447:United States
 206.188.208.224:8443:United States
+18.163.182.106:34016:Germany
+205.178.137.132:8443:United States
 84.237.50.69:8444:Russia
-205.178.144.239:8443:United States
+205.178.186.112:8443:United States
 217.219.247.70:8443:Germany
 206.188.207.81:8443:United States
 148.135.10.80:443:United States
@@ -830,6 +844,7 @@
 35.84.133.236:8443:United States
 198.41.43.116:443:Chile
 18.201.76.212:443:Ireland
+206.188.207.91:8447:United States
 18.201.129.245:443:Ireland
 110.173.188.221:443:India
 174.92.137.175:443:United States
@@ -858,13 +873,20 @@
 37.203.35.28:443:Latvia
 37.203.35.50:443:Latvia
 37.203.35.53:443:Latvia
+205.178.144.167:8443:United States
 37.203.35.48:443:Latvia
 205.178.137.11:8447:United States
 194.254.206.88:443:France
 108.60.228.210:443:Bahamas
+205.178.136.33:8443:United States
 205.178.137.101:8443:United States
 84.237.50.68:8444:Russia
 45.145.72.122:8443:United States
-205.178.136.74:8447:United States
-205.178.137.6:8447:United States
+205.178.186.59:8443:United States
+205.178.136.151:8443:United States
+205.178.136.249:8447:United States
+69.161.223.26:8447:United States
+205.178.136.208:8443:United States
+69.161.223.87:8443:United States
 205.178.137.87:8443:United States
+69.161.222.159:8447:United States
