@@ -9,6 +9,7 @@
 192.111.137.34:18765:United States
 192.252.208.70:14282:United States
 192.111.135.17:18302:United States
+192.111.135.18:18301:United States
 192.252.211.197:14921:United States
 192.111.129.145:16894:United States
 192.252.214.20:15864:United States
@@ -86,7 +87,6 @@
 125.24.156.113:7080:Thailand
 103.189.218.76:6969:Bangladesh
 185.133.239.244:16299:Germany
-203.189.135.73:1080:Cambodia
 213.27.29.153:51000:Russia
 37.49.224.167:1080:Estonia
 103.206.68.241:1080:Cambodia
@@ -111,6 +111,7 @@
 65.21.252.66:10808:Australia
 94.233.120.194:1080:Russia
 188.242.163.28:21:Russia
+103.239.52.100:1080:Cambodia
 123.0.24.154:9090:Bangladesh
 103.142.255.32:1080:Indonesia
 111.119.162.248:10912:United States
@@ -142,6 +143,7 @@
 213.199.47.140:1080:France
 27.131.14.9:1088:Bangladesh
 186.26.95.249:61445:Brazil
+31.211.142.115:8192:Bulgaria
 118.70.151.55:1080:Vietnam
 102.36.127.249:1080:South Africa
 81.177.175.251:1080:Russia
@@ -185,12 +187,14 @@
 45.74.31.42:4063:France
 45.74.31.42:4802:Colombia
 31.59.170.18:1080:The Netherlands
+36.155.23.163:10808:Hong Kong
 45.74.31.41:11884:United States
 45.74.31.42:13011:United States
 45.74.31.47:21523:France
 45.74.31.42:9146:United States
 111.119.162.248:10902:United States
 45.74.31.42:4780:Brazil
+45.74.31.47:33346:Indonesia
 45.74.31.40:4431:United States
 45.74.31.47:35303:United States
 91.107.179.68:10809:Germany
@@ -275,7 +279,6 @@
 5.75.133.113:10814:Lithuania
 45.74.31.41:5198:United States
 45.74.31.41:14004:Indonesia
-45.74.31.41:14281:Indonesia
 45.74.31.41:14191:Indonesia
 45.74.31.42:28938:United States
 83.174.229.42:1080:Russia
@@ -379,6 +382,7 @@
 45.74.31.42:7194:United States
 45.74.31.42:6310:Colombia
 37.193.218.66:1080:Russia
+171.25.158.95:1080:Sweden
 118.179.102.168:9090:Bangladesh
 45.74.31.41:11652:Indonesia
 45.74.31.40:4018:United Kingdom
@@ -396,9 +400,11 @@
 128.69.178.28:1080:Russia
 45.74.31.40:10201:France
 45.74.31.47:23291:France
+45.74.31.47:5164:Japan
 45.74.31.41:24872:Indonesia
 81.23.187.118:1080:Russia
 45.74.31.42:9534:India
+102.129.229.131:1081:Thailand
 45.74.31.42:11488:France
 45.74.31.41:19735:Indonesia
 45.74.31.42:7918:United States
@@ -605,6 +611,7 @@
 45.74.31.40:4065:Spain
 45.74.31.41:17040:France
 45.74.31.40:8447:United States
+129.153.11.56:1080:United States
 45.74.31.42:4881:Brazil
 45.74.31.47:4473:Colombia
 45.74.31.47:4777:United States
@@ -663,6 +670,7 @@
 45.74.31.41:4598:United States
 45.74.31.40:10900:United States
 45.74.31.47:13427:Ireland
+45.74.31.40:4793:Germany
 45.74.31.42:8777:United States
 45.74.31.41:4271:Vietnam
 45.74.31.47:4106:United States
@@ -746,6 +754,7 @@
 45.74.31.40:5164:United States
 45.74.31.42:5995:Austria
 45.74.31.40:4858:United States
+45.74.31.41:4017:United States
 45.74.31.41:4031:United States
 45.74.31.41:4220:United States
 45.74.31.42:11328:South Korea
@@ -1120,7 +1129,6 @@
 45.74.31.41:4277:United States
 45.74.31.41:5709:Austria
 45.74.31.47:4324:Finland
-45.74.31.41:6199:Singapore
 45.74.31.41:7916:France
 45.74.31.42:4398:Brazil
 45.74.31.41:5399:United States
@@ -1216,7 +1224,6 @@
 45.74.31.47:9202:United States
 45.74.31.42:6515:Austria
 45.74.31.42:5717:United States
-45.74.31.40:7156:United States
 45.74.31.47:15838:United States
 45.74.31.40:4631:United States
 45.74.31.41:4980:United States
@@ -1234,7 +1241,6 @@
 45.74.31.40:4028:United States
 91.234.183.79:1080:Russia
 202.4.116.146:9090:Bangladesh
-8.219.122.8:9999:Singapore
 45.74.31.41:4690:Croatia
 45.74.31.42:7965:United States
 45.74.31.46:4015:Ireland
@@ -1253,6 +1259,7 @@
 45.74.31.46:5166:United States
 45.74.31.40:7890:India
 45.74.31.46:5879:United States
+185.73.115.43:2080:The Netherlands
 183.106.215.208:1080:South Korea
 45.74.31.47:7053:United States
 46.173.18.7:40001:Russia
@@ -1281,7 +1288,6 @@
 45.74.31.42:12122:United States
 45.74.31.40:4730:Colombia
 45.74.31.41:5069:United States
-45.74.31.41:4091:United States
 45.74.31.41:5090:Spain
 45.74.31.47:7426:United States
 45.74.31.40:4643:Colombia
@@ -1310,6 +1316,7 @@
 45.74.31.47:5752:United States
 45.74.31.41:22032:United States
 45.74.31.40:25422:United States
+45.74.31.41:12232:France
 45.74.31.40:9466:United States
 45.74.31.42:4010:United States
 45.74.31.41:10419:United States
@@ -1320,6 +1327,7 @@
 45.74.31.42:10651:United States
 45.74.31.40:10948:United States
 45.74.31.47:5140:United States
+45.74.31.47:4573:Colombia
 45.74.31.42:6822:United States
 110.76.144.112:1080:Indonesia
 45.74.31.42:6318:United States
@@ -1499,6 +1507,7 @@
 45.74.31.41:5521:United States
 45.74.31.42:13810:United States
 2.50.191.180:10800:United Arab Emirates
+119.28.233.187:1085:South Korea
 45.74.31.40:5377:Canada
 45.74.31.40:21519:United States
 45.74.31.47:7963:South Korea
@@ -1550,7 +1559,7 @@
 45.74.31.41:14835:Vietnam
 45.74.31.40:5317:Spain
 45.74.31.40:5301:United States
-45.74.31.41:7291:Colombia
+45.74.31.41:4796:Germany
 45.74.31.41:5858:Germany
 45.74.31.42:7486:Germany
 45.74.31.40:4291:Austria
@@ -1667,4 +1676,5 @@
 45.74.31.47:8818:India
 45.150.33.190:4080:Spain
 45.74.31.42:11300:India
+45.74.31.41:5574:Spain
 45.74.31.42:12301:Switzerland
